@@ -6,8 +6,7 @@
 </div>
 
 # 3D Flow Visualization
-A 3D flow visualization tool based on Runge-Kutta 4 (RK4) and Greedy Tiling for Streamsurface reconstruction.
-
+A 3D flow visualization tool based on Runge-Kutta 4 (RK4) and Greedy Tiling for Streamsurface reconstruction. Developed using C++ and VTK.
 
 ## Instructions
 After executing the program a console window will open asking for different parameters for visualizing the vector field:
